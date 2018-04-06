@@ -1,0 +1,160 @@
+
+
+.container {
+  display:inline-block;
+}
+
+.header {
+  background-color: #FFC900  ;
+ 
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  background: black;
+}
+ 
+
+ 
+.nav ul {
+  list-style:none;
+  background-color: black;
+  text-align: center;
+  padding: 0;
+  margin: 5;
+}
+
+.nav li {
+  font-family: 'Oswald', sans-serif;
+  font-size: .4em;
+  line-height: 20px;
+  height: 20px;
+  border-bottom: 4px solid #888;
+}
+ 
+.nav a {
+  text-decoration: none;
+  color: white;
+  display: block;
+  transition: .20s; 
+  background-color: black;
+}
+ 
+.nav a:hover {
+  background-color: white;
+}
+ 
+.nav a.active {
+  background-color: white;
+  color: white;
+  cursor: default;
+}
+ 
+.nav li {
+    width: 120px;
+    border-bottom: none;
+    height: 50px;
+    line-height: 50px;
+    font-size: 1.4em;
+  }
+ 
+
+.nav li {
+    display: inline-block;
+    margin-right: 80px;
+  
+}
+
+.logo{
+  height: 25%;
+  width: 25%;
+}
+.hotdogs{
+  height: 80%;
+  width: 80%;
+  margin: 5px;
+  margin-right:10px;
+}
+
+
+
+.logo2{
+  height:60px;
+  width:60px;
+}
+
+
+.fa {
+  padding: 2%;
+  font-size: 7%;
+  width: 5%;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 2px;
+  border-radius: 100%;
+}
+
+.fa:hover {
+    opacity: 0.9;
+}
+
+.fa-facebook {
+  background: #3B5998;
+  color: white;
+}
+
+.fa-twitter {
+  background: #55ACEE;
+  color: white;
+}
+
+.goods{
+  height: 80%;
+  width: 80%;
+  margin: 5px;
+  margin-right:10px;
+}
+
+#footerspace{
+  margin-top: 200px;
+}
+
+.good{
+  height: 80%;
+  width: 80%;
+  margin: 5px;
+  margin-right:10px;
+}
+
+.hood{
+  height: 80%;
+  width: 80%;
+  margin: 5px;
+  margin-right:10px;
+}
+
+.h1{
+  margin-top: 150px;
+}
+
+.item{
+  height:200px;
+  width: 200px;
+
+  }
+  
+.Hours {
+    font-size: 50px;
+    color: black;
+  }
+  
+  th {
+  transform: translateX(285%);
+  font-size: 30px;
+}
+
+ td {
+  transform: translateX(300%);
+  font-size: 30px;
+ }
